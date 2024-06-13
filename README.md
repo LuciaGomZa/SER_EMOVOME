@@ -1,6 +1,22 @@
 # Speech Emotion Recognition (SER) using the EMOVOME database
 This repository contains the Python implementation of the article: "EMOVOME Database: Advancing Emotion Recognizing in Speech Beyond Staged Scenarios".
 
+## Citation
+If you use this code in your research, please cite our work as follows:
+
+> L. Gómez-Zaragozá, R. del Amor, M. Castro-Bleda, V. Naranjo, M. Alcañiz Raya and J. Marín-Morales, "EMOVOME Database: Advancing Emotion Recognizing in Speech Beyond Staged Scenarios", 2024. [https://arxiv.org/abs/2403.02167](https://arxiv.org/abs/2403.02167)
+
+
+```
+@misc{gomez2024,
+  title={EMOVOME Database: Advancing Emotion Recognizing in Speech Beyond Staged Scenarios},
+  author={Lucía Gómez-Zaragozá and Rocío del Amor and María José Castro-Bleda and Valery Naranjo and Mariano Alcañiz Raya and Javier Marín-Morales},
+  year={2024},
+  eprint={2403.02167},
+  archivePrefix={arXiv},
+}
+```
+
 ## Files and folders
 * data: description of the ADReSS Challenge data, and instructions on how to obtain it.
 * codes: folder with the following jupyter notebooks
@@ -10,16 +26,4 @@ This repository contains the Python implementation of the article: "EMOVOME Data
   * 3_Word embeddings and neural network: pre-trained word embeddings + neural network model training.
 <!-- * requirements.txt: required packages to be installed. -->
 
-## Citation
-If you find this work helpful, please cite our work as:
 
-Gómez-Zaragozá, L., del Amor, R., Castro-Bleda, M., Naranjo, V., Alcañiz Raya, M., Marín-Morales, J. (2024) EMOVOME Database: Advancing Emotion Recognizing in Speech Beyond Staged Scenarios. arXiv preprint arXiv:2403.02167
-
-```
-@article{gomez2024,
-  author={Gómez-Zaragozá, Lucía and del Amor, Rocío and Castro-Bleda, María José and Naranjo, Valery and Raya, Mariano Alcañiz and Marín-Morales, Javier},
-  title={EMOVOME Database: Advancing Emotion Recognizing in Speech Beyond Staged Scenarios},
-  year={2024}
-  journal={arXiv preprint arXiv:2403.02167},
-}
-```
