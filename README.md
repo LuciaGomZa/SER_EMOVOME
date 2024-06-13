@@ -49,7 +49,13 @@ pip3 install -r my_requirements.txt
 
 ## Usage
 
-You can open and run the code written in Jupyter notebooks with the following command:
+To run the Jupyter notebooks, ensure Jupyter is installed in your environment. You can install it using: 
+
+```bash
+pip install jupyter
+```
+
+You can then open and run the Jupyter notebooks with the following command:
 
 ```bash
 jupyter notebook my_notebook.ipynb
