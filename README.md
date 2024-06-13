@@ -16,7 +16,7 @@ If you find this work helpful, please cite our work as:
 Gómez-Zaragozá, L., del Amor, R., Castro-Bleda, M., Naranjo, V., Alcañiz Raya, M., Marín-Morales, J. (2024) EMOVOME Database: Advancing Emotion Recognizing in Speech Beyond Staged Scenarios. arXiv preprint arXiv:2403.02167
 
 ```
- @article{gomez2024,
+@article{gomez2024,
   author={Gómez-Zaragozá, Lucía and del Amor, Rocío and Castro-Bleda, María José and Naranjo, Valery and Raya, Mariano Alcañiz and Marín-Morales, Javier},
   title={EMOVOME Database: Advancing Emotion Recognizing in Speech Beyond Staged Scenarios},
   year={2024}
