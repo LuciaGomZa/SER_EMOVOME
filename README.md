@@ -24,6 +24,23 @@ If you use this code in your research, please cite our work as follows:
   * 2_1_Feature extraction: feature extraction and pause encoding. 
   * 2_2_Machine learning: training the machine learning models based on the previous features.
   * 3_Word embeddings and neural network: pre-trained word embeddings + neural network model training.
-<!-- * requirements.txt: required packages to be installed. -->
+
+
+## Installation
+
+All dependencies can be installed via pip from the requirements.txt:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+Code written using Jupyter notebooks can be opened using the following command: 
+
+```bash
+jupyter notebook notebook.ipynb
+```
+
 
 
