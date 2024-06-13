@@ -18,12 +18,13 @@ If you use this code in your research, please cite our work as follows:
 ```
 
 ## Files and folders
-* data: description of the ADReSS Challenge data, and instructions on how to obtain it.
-* codes: folder with the following jupyter notebooks
-  * 1_Automatic Speech Recognition (ASR): transcription of the audio files using different automatic speech recognition models.
-  * 2_1_Feature extraction: feature extraction and pause encoding. 
-  * 2_2_Machine learning: training the machine learning models based on the previous features.
-  * 3_Word embeddings and neural network: pre-trained word embeddings + neural network model training.
+* 1_extract_features: folder with the following sub-folders
+  * 1_eGeMAPS_features: code to extract the eGeMAPS features 
+  * 2_speech_embeddings: code to extract the speech embeddings using different pre-trained models
+  * 3_combine_eGeMAPS_embeddings: code to combine the eGeMAPS features and the speech embeddings
+* 2_run_SER_models: folder with the following jupyter notebooks
+  * baseline_egemaps.ipynb: code to implement the baseline models based on eGeMAPS
+  * model_embeddings.ipynb: code to run the models using the embeddings and/or their combination with eGeMAPS
 
 
 ## Installation
