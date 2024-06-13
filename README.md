@@ -28,18 +28,31 @@ If you use this code in your research, please cite our work as follows:
 
 ## Installation
 
-All dependencies can be installed via pip from the requirements.txt:
+To ensure a smooth setup, we recommend creating a new virtual environment. Follow these steps:
+
+1. Create a new environment with Conda:
 
 ```bash
-pip install -r requirements.txt
+conda create --name myenv
+```
+2. Activate the newly created environment:
+
+```bash
+conda activate myenv
+```
+
+3. Install all dependencies from the requirements.txt file using pip:
+
+```bash
+pip3 install -r my_requirements.txt
 ```
 
 ## Usage
 
-Code written using Jupyter notebooks can be opened using the following command: 
+You can open and run the code written in Jupyter notebooks with the following command:
 
 ```bash
-jupyter notebook notebook.ipynb
+jupyter notebook my_notebook.ipynb
 ```
 
 
