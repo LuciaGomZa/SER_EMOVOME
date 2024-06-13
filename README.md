@@ -1,15 +1,15 @@
 # Speech Emotion Recognition (SER) using the EMOVOME database
-This repository contains the Python implementation of the article: "EMOVOME Database: Advancing Emotion Recognizing in Speech Beyond Staged Scenarios".
+This repository contains the Python implementation of the article: "EMOVOME Database: Advancing Emotion Recognition in Speech Beyond Staged Scenarios".
 
 ## Citation
 If you use this code in your research, please cite our work as follows:
 
-> L. Gómez-Zaragozá, R. del Amor, M. Castro-Bleda, V. Naranjo, M. Alcañiz Raya and J. Marín-Morales, "EMOVOME Database: Advancing Emotion Recognizing in Speech Beyond Staged Scenarios", 2024. [https://arxiv.org/abs/2403.02167](https://arxiv.org/abs/2403.02167)
+> L. Gómez-Zaragozá, R. del Amor, M. Castro-Bleda, V. Naranjo, M. Alcañiz Raya and J. Marín-Morales, "EMOVOME Database: Advancing Emotion Recognition in Speech Beyond Staged Scenarios", 2024. [https://arxiv.org/abs/2403.02167](https://arxiv.org/abs/2403.02167)
 
 
 ```
 @misc{gomez2024,
-  title={EMOVOME Database: Advancing Emotion Recognizing in Speech Beyond Staged Scenarios},
+  title={EMOVOME Database: Advancing Emotion Recognition in Speech Beyond Staged Scenarios},
   author={Lucía Gómez-Zaragozá and Rocío del Amor and María José Castro-Bleda and Valery Naranjo and Mariano Alcañiz Raya and Javier Marín-Morales},
   year={2024},
   eprint={2403.02167},
